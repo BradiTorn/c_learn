@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ae3c09e-f01f-45d0-b855-fe9ef4583805": {
+      "ProjectGuid": "2ae3c09e-f01f-45d0-b855-fe9ef4583805",
+      "DisplayName": "Block1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
